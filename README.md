@@ -1,1 +1,1 @@
-This is my FYP project of Customer Segmentations Using CLustering Technique(K-Means) to improve CRM for the business analytics. Im using Jupyter Notebook for dataset cleaning, Python for the backend and streamlit for frontend dashboard. 
+This is my FYP project of Customer Segmentations Using CLustering Technique(K-Means) to improve CRM for the business analytics. I used Jupyter Notebook for dataset cleaning, Python for the backend and streamlit for frontend dashboard. 
